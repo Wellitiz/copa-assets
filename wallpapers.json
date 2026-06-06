@@ -1,24 +1,1058 @@
 [
-  {
-    "id": "cp_01",
-    "name": "FIFA Official Ball 2026",
-    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_1.jpg",
-    "category": "Copa",
-    "team": "",
-    "predominantColor": "#0D2C54",
-    "isPremium": false,
-    "isNew": true,
-    "tags": ["copa", "bola", "fifa", "2026", "world cup", "ball", "trionda"]
-  },
-  {
-    "id": "cp_02",
-    "name": "World Cup Trophy 2026",
-    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_2.jpg",
-    "category": "Copa",
-    "team": "",
-    "predominantColor": "#6B3FA0",
-    "isPremium": false,
-    "isNew": true,
-    "tags": ["copa", "trofeu", "trophy", "fifa", "2026", "world cup"]
-  }
+    {
+        "id":  "cp_01",
+        "name":  "FIFA Official Ball 2026",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_1.jpg",
+        "category":  "Copa",
+        "team":  "",
+        "predominantColor":  "#0D2C54",
+        "isPremium":  false,
+        "isNew":  true,
+        "tags":  [
+                     "copa",
+                     "bola",
+                     "fifa",
+                     "2026",
+                     "world cup",
+                     "ball",
+                     "trionda"
+                 ]
+    },
+    {
+        "id":  "cp_02",
+        "name":  "World Cup Trophy 2026",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_2.jpg",
+        "category":  "Copa",
+        "team":  "",
+        "predominantColor":  "#6B3FA0",
+        "isPremium":  false,
+        "isNew":  true,
+        "tags":  [
+                     "copa",
+                     "trofeu",
+                     "trophy",
+                     "fifa",
+                     "2026",
+                     "world cup"
+                 ]
+    },
+    {
+        "id":  "cp_03",
+        "predominantColor":  "#0D2C54",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "logo",
+                     "neon",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Neon World Cup Logo",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_03.png"
+    },
+    {
+        "id":  "cp_04",
+        "predominantColor":  "#E1B12C",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "trophy",
+                     "pitch",
+                     "gold",
+                     "2026"
+                 ],
+        "isNew":  true,
+        "name":  "Golden Trophy on Pitch",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_04.png"
+    },
+    {
+        "id":  "cp_05",
+        "predominantColor":  "#6B3FA0",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "hosts",
+                     "neon",
+                     "abstract",
+                     "2026"
+                 ],
+        "isNew":  true,
+        "name":  "Hosts Neon Patterns",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_05.png"
+    },
+    {
+        "id":  "cp_06",
+        "predominantColor":  "#00A859",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "stadium",
+                     "confetti",
+                     "celebration"
+                 ],
+        "isNew":  true,
+        "name":  "Stadium Confetti",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_06.png"
+    },
+    {
+        "id":  "cp_07",
+        "predominantColor":  "#4A148C",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "abstract",
+                     "waves",
+                     "energy",
+                     "purple"
+                 ],
+        "isNew":  true,
+        "name":  "Abstract Soccer Waves",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_07.png"
+    },
+    {
+        "id":  "cp_08",
+        "predominantColor":  "#1A237E",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "stadium",
+                     "night",
+                     "neon",
+                     "stars"
+                 ],
+        "isNew":  true,
+        "name":  "Epic Stadium Night",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_08.png"
+    },
+    {
+        "id":  "cp_09",
+        "predominantColor":  "#33691E",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "pitch",
+                     "grass",
+                     "macro",
+                     "soccer"
+                 ],
+        "isNew":  true,
+        "name":  "Macro Pitch Details",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png"
+    },
+    {
+        "id":  "cp_10",
+        "predominantColor":  "#BF360C",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "fan",
+                     "silhouette",
+                     "atmosphere",
+                     "flag"
+                 ],
+        "isNew":  true,
+        "name":  "Fan Silhouette",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png"
+    },
+    {
+        "id":  "st_01",
+        "predominantColor":  "#1A237E",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "atlanta",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Mercedes-Benz Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_01.png"
+    },
+    {
+        "id":  "st_02",
+        "predominantColor":  "#0D47A1",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "boston",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Gillette Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_02.png"
+    },
+    {
+        "id":  "st_03",
+        "predominantColor":  "#827717",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "dallas",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "AT\u0026T Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_03.png"
+    },
+    {
+        "id":  "st_04",
+        "predominantColor":  "#B71C1C",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "houston",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "NRG Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_04.png"
+    },
+    {
+        "id":  "st_05",
+        "predominantColor":  "#C62828",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "kansas city",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Arrowhead Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_05.png"
+    },
+    {
+        "id":  "st_06",
+        "predominantColor":  "#1565C0",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "los angeles",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "SoFi Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_06.png"
+    },
+    {
+        "id":  "st_07",
+        "predominantColor":  "#00695C",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "miami",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Hard Rock Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_07.png"
+    },
+    {
+        "id":  "st_08",
+        "predominantColor":  "#283593",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "nova york",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "MetLife Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_08.png"
+    },
+    {
+        "id":  "st_09",
+        "predominantColor":  "#004C54",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "philadelphia",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Lincoln Financial Field",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_09.png"
+    },
+    {
+        "id":  "st_10",
+        "predominantColor":  "#AA0000",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "san francisco",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Levi\u0027s Stadium",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_10.png"
+    },
+    {
+        "id":  "st_11",
+        "predominantColor":  "#69BE28",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "seattle",
+                     "eua",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Lumen Field",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_11.png"
+    },
+    {
+        "id":  "st_12",
+        "predominantColor":  "#112233",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "cidade do mexico",
+                     "mexico",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Estádio Azteca",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_12.png"
+    },
+    {
+        "id":  "st_13",
+        "predominantColor":  "#E53935",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "guadalajara",
+                     "mexico",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Estádio Akron",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_13.png"
+    },
+    {
+        "id":  "st_14",
+        "predominantColor":  "#1E88E5",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "monterrey",
+                     "mexico",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "Estádio BBVA",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_14.png"
+    },
+    {
+        "id":  "st_15",
+        "predominantColor":  "#D32F2F",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "toronto",
+                     "canada",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "BMO Field",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_15.png"
+    },
+    {
+        "id":  "st_16",
+        "predominantColor":  "#1976D2",
+        "isPremium":  false,
+        "category":  "Estádios",
+        "tags":  [
+                     "estadio",
+                     "vancouver",
+                     "canada",
+                     "2026",
+                     "stadium"
+                 ],
+        "isNew":  true,
+        "name":  "BC Place",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_16.png"
+    },
+    {
+        "id":  "br_01",
+        "predominantColor":  "#009B3A",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "brasil",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\brasil/br_01.png"
+    },
+    {
+        "id":  "br_02",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "brasil",
+                     "selecao",
+                     "jogador",
+                     "retrato",
+                     "realista"
+                 ],
+        "isNew":  true,
+        "name":  "Retrato de Craque",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\brasil/br_02.png"
+    },
+    {
+        "id":  "br_03",
+        "predominantColor":  "#002776",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "brasil",
+                     "selecao",
+                     "torcida",
+                     "festa",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Torcida Brasileira",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\brasil/br_03.png"
+    },
+    {
+        "id":  "br_04",
+        "predominantColor":  "#116035",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "brasil",
+                     "selecao",
+                     "bola",
+                     "pitch",
+                     "verde"
+                 ],
+        "isNew":  true,
+        "name":  "Bola Verde e Amarela",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\brasil/br_04.png"
+    },
+    {
+        "id":  "ar_01",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "argentina",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\argentina/ar_01.png"
+    },
+    {
+        "id":  "ar_02",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "argentina",
+                     "selecao",
+                     "jogador",
+                     "retrato",
+                     "realista"
+                 ],
+        "isNew":  true,
+        "name":  "Retrato de Craque",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\argentina/ar_02.png"
+    },
+    {
+        "id":  "ar_03",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "argentina",
+                     "selecao",
+                     "torcida",
+                     "festa",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Torcida Argentina",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\argentina/ar_03.png"
+    },
+    {
+        "id":  "ar_04",
+        "predominantColor":  "#2C3E50",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "argentina",
+                     "selecao",
+                     "bola",
+                     "pitch",
+                     "azul"
+                 ],
+        "isNew":  true,
+        "name":  "Bola Albiceleste",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\argentina/ar_04.png"
+    },
+    {
+        "id":  "us_01",
+        "predominantColor":  "#0A3161",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "eua",
+                     "usa",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "eua",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\eua/us_01.png"
+    },
+    {
+        "id":  "us_02",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "eua",
+                     "usa",
+                     "selecao",
+                     "jogador",
+                     "retrato",
+                     "realista"
+                 ],
+        "isNew":  true,
+        "name":  "Retrato de Craque",
+        "team":  "eua",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\eua/us_02.png"
+    },
+    {
+        "id":  "us_03",
+        "predominantColor":  "#B31942",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "eua",
+                     "usa",
+                     "selecao",
+                     "torcida",
+                     "festa",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Torcida Americana",
+        "team":  "eua",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\eua/us_03.png"
+    },
+    {
+        "id":  "us_04",
+        "predominantColor":  "#0A3161",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "eua",
+                     "usa",
+                     "selecao",
+                     "bola",
+                     "pitch"
+                 ],
+        "isNew":  true,
+        "name":  "Bola Americana",
+        "team":  "eua",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\eua/us_04.png"
+    },
+    {
+        "id":  "mx_01",
+        "predominantColor":  "#006847",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "mexico",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "mexico",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\mexico/mx_01.png"
+    },
+    {
+        "id":  "mx_02",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "mexico",
+                     "selecao",
+                     "jogador",
+                     "retrato",
+                     "realista"
+                 ],
+        "isNew":  true,
+        "name":  "Retrato de Craque",
+        "team":  "mexico",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\mexico/mx_02.png"
+    },
+    {
+        "id":  "mx_03",
+        "predominantColor":  "#CE1126",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "mexico",
+                     "selecao",
+                     "torcida",
+                     "festa",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Torcida Mexicana",
+        "team":  "mexico",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\mexico/mx_03.png"
+    },
+    {
+        "id":  "mx_04",
+        "predominantColor":  "#006847",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "mexico",
+                     "selecao",
+                     "bola",
+                     "pitch"
+                 ],
+        "isNew":  true,
+        "name":  "Bola Tricolor",
+        "team":  "mexico",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\mexico/mx_04.png"
+    },
+    {
+        "id":  "pt_01",
+        "predominantColor":  "#E42518",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "portugal",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "portugal",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\portugal/pt_01.png"
+    },
+    {
+        "id":  "pt_02",
+        "predominantColor":  "#E42518",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "portugal",
+                     "selecao",
+                     "jogador",
+                     "retrato",
+                     "realista"
+                 ],
+        "isNew":  true,
+        "name":  "Retrato de Craque",
+        "team":  "portugal",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\portugal/pt_02.png"
+    },
+    {
+        "id":  "pt_03",
+        "predominantColor":  "#046A38",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "portugal",
+                     "selecao",
+                     "torcida",
+                     "festa",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Torcida Portuguesa",
+        "team":  "portugal",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\portugal/pt_03.png"
+    },
+    {
+        "id":  "pt_04",
+        "predominantColor":  "#046A38",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "portugal",
+                     "selecao",
+                     "bola",
+                     "pitch"
+                 ],
+        "isNew":  true,
+        "name":  "Bola Verde e Vermelha",
+        "team":  "portugal",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\portugal/pt_04.png"
+    },
+    {
+        "id":  "bl_01",
+        "predominantColor":  "#212121",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "2026",
+                     "oficial",
+                     "studio"
+                 ],
+        "isNew":  true,
+        "name":  "Trionda Studio Lighting",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_01.png"
+    },
+    {
+        "id":  "bl_02",
+        "predominantColor":  "#388E3C",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "gol",
+                     "rede",
+                     "relva"
+                 ],
+        "isNew":  true,
+        "name":  "Trionda in the Net",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_02.png"
+    },
+    {
+        "id":  "bl_03",
+        "predominantColor":  "#E0E0E0",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "penalti",
+                     "tensao",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Trionda on Penalty Spot",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_03.png"
+    },
+    {
+        "id":  "bl_04",
+        "predominantColor":  "#0277BD",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "chuva",
+                     "epico",
+                     "acao"
+                 ],
+        "isNew":  true,
+        "name":  "Trionda in the Rain",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_04.png"
+    },
+    {
+        "id":  "pl_01",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "vini jr",
+                     "brasil",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Vinicius Junior Action",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_01.png"
+    },
+    {
+        "id":  "pl_02",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "messi",
+                     "argentina",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Lionel Messi Action",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_02.png"
+    },
+    {
+        "id":  "pl_03",
+        "predominantColor":  "#002395",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "mbappe",
+                     "franca",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Kylian Mbappe Action",
+        "team":  "franca",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_03.png"
+    },
+    {
+        "id":  "pl_04",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "bellingham",
+                     "inglaterra",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Jude Bellingham Action",
+        "team":  "inglaterra",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_04.png"
+    },
+    {
+        "id":  "mo_01",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "pele",
+                     "brasil",
+                     "1970",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Pele 1970",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_01.png"
+    },
+    {
+        "id":  "mo_02",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "maradona",
+                     "argentina",
+                     "1986",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Maradona 1986",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_02.png"
+    },
+    {
+        "id":  "mo_03",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "ronaldo",
+                     "brasil",
+                     "2002",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Ronaldo 2002",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_03.png"
+    },
+    {
+        "id":  "mo_04",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "messi",
+                     "argentina",
+                     "2022",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Messi 2022",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_04.png"
+    },
+    {
+        "id":  "fz_01",
+        "predominantColor":  "#6A1B9A",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "festa",
+                     "telao",
+                     "copa"
+                 ],
+        "isNew":  true,
+        "name":  "Massive Fan Zone",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_01.png"
+    },
+    {
+        "id":  "fz_02",
+        "predominantColor":  "#E65100",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "rostos pintados",
+                     "festa"
+                 ],
+        "isNew":  true,
+        "name":  "Passionate Fans",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_02.png"
+    },
+    {
+        "id":  "fz_03",
+        "predominantColor":  "#C2185B",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "cachecol",
+                     "estadio",
+                     "epico"
+                 ],
+        "isNew":  true,
+        "name":  "Sea of Scarves",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_03.png"
+    },
+    {
+        "id":  "fz_04",
+        "predominantColor":  "#004D40",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "gol",
+                     "celebracao",
+                     "alegria"
+                 ],
+        "isNew":  true,
+        "name":  "Goal Celebration",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_04.png"
+    }
 ]
