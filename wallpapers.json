@@ -1,22 +1,24 @@
 [
   {
     "id": "cp_01",
-    "name": "Copa 1",
-    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa_1.jpg",
-    "category": "Todas",
-    "predominantColor": "#00A859",
+    "name": "FIFA Official Ball 2026",
+    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_1.jpg",
+    "category": "Copa",
+    "team": "",
+    "predominantColor": "#0D2C54",
     "isPremium": false,
     "isNew": true,
-    "tags": ["copa", "novo"]
+    "tags": ["copa", "bola", "fifa", "2026", "world cup", "ball", "trionda"]
   },
   {
     "id": "cp_02",
-    "name": "Copa 2",
-    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa_2.jpg",
-    "category": "Todas",
-    "predominantColor": "#43A1D5",
+    "name": "World Cup Trophy 2026",
+    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_2.jpg",
+    "category": "Copa",
+    "team": "",
+    "predominantColor": "#6B3FA0",
     "isPremium": false,
     "isNew": true,
-    "tags": ["copa", "novo"]
+    "tags": ["copa", "trofeu", "trophy", "fifa", "2026", "world cup"]
   }
 ]
