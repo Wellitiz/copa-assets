@@ -1054,5 +1054,125 @@
         "name":  "Goal Celebration",
         "team":  "",
         "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_04.png"
+    },
+    {
+        "id":  "pl_05",
+        "predominantColor":  "#C8102E",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "haaland",
+                     "noruega",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Erling Haaland Action",
+        "team":  "noruega",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_05.png"
+    },
+    {
+        "id":  "pl_06",
+        "predominantColor":  "#E42518",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "ronaldo",
+                     "portugal",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Cristiano Ronaldo Action",
+        "team":  "portugal",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_06.png"
+    },
+    {
+        "id":  "pl_07",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "pulisic",
+                     "usa",
+                     "eua",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Christian Pulisic Action",
+        "team":  "eua",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_07.png"
+    },
+    {
+        "id":  "pl_08",
+        "predominantColor":  "#006847",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "gimenez",
+                     "mexico",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Santiago Gimenez Action",
+        "team":  "mexico",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_08.png"
+    },
+    {
+        "id":  "mo_05",
+        "predominantColor":  "#002395",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "zidane",
+                     "franca",
+                     "1998",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Zidane 1998",
+        "team":  "franca",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_05.png"
+    },
+    {
+        "id":  "mo_06",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "gotze",
+                     "alemanha",
+                     "2014",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Gotze 2014",
+        "team":  "alemanha",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_06.png"
+    },
+    {
+        "id":  "mo_07",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "cafu",
+                     "brasil",
+                     "2002",
+                     "campeao"
+                 ],
+        "isNew":  true,
+        "name":  "Cafu 2002",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_07.png"
     }
 ]
