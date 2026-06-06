@@ -1,8 +1,8 @@
-ï»¿[
+[
     {
         "id":  "cp_01",
         "name":  "FIFA Official Ball 2026",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_1.jpg",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_1.jpg?v=2",
         "category":  "Copa",
         "team":  "",
         "predominantColor":  "#0D2C54",
@@ -21,7 +21,7 @@
     {
         "id":  "cp_02",
         "name":  "World Cup Trophy 2026",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_2.jpg",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_2.jpg?v=2",
         "category":  "Copa",
         "team":  "",
         "predominantColor":  "#6B3FA0",
@@ -51,7 +51,7 @@
         "isNew":  true,
         "name":  "Neon World Cup Logo",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_03.png?v=2"
     },
     {
         "id":  "cp_04",
@@ -68,7 +68,7 @@
         "isNew":  true,
         "name":  "Golden Trophy on Pitch",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_04.png?v=2"
     },
     {
         "id":  "cp_05",
@@ -85,7 +85,7 @@
         "isNew":  true,
         "name":  "Hosts Neon Patterns",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_05.png?v=2"
     },
     {
         "id":  "cp_06",
@@ -101,7 +101,7 @@
         "isNew":  true,
         "name":  "Stadium Confetti",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_06.png?v=2"
     },
     {
         "id":  "cp_07",
@@ -118,7 +118,7 @@
         "isNew":  true,
         "name":  "Abstract Soccer Waves",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_07.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_07.png?v=2"
     },
     {
         "id":  "cp_08",
@@ -135,7 +135,7 @@
         "isNew":  true,
         "name":  "Epic Stadium Night",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_08.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_08.png?v=2"
     },
     {
         "id":  "cp_09",
@@ -152,7 +152,7 @@
         "isNew":  true,
         "name":  "Macro Pitch Details",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png?v=2"
     },
     {
         "id":  "cp_10",
@@ -169,13 +169,13 @@
         "isNew":  true,
         "name":  "Fan Silhouette",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png?v=2"
     },
     {
         "id":  "st_01",
         "predominantColor":  "#1A237E",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "atlanta",
@@ -186,13 +186,13 @@
         "isNew":  true,
         "name":  "Mercedes-Benz Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_01.png?v=2"
     },
     {
         "id":  "st_02",
         "predominantColor":  "#0D47A1",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "boston",
@@ -203,13 +203,13 @@
         "isNew":  true,
         "name":  "Gillette Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_02.png?v=2"
     },
     {
         "id":  "st_03",
         "predominantColor":  "#827717",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "dallas",
@@ -220,13 +220,13 @@
         "isNew":  true,
         "name":  "AT\u0026T Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_03.png?v=2"
     },
     {
         "id":  "st_04",
         "predominantColor":  "#B71C1C",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "houston",
@@ -237,13 +237,13 @@
         "isNew":  true,
         "name":  "NRG Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_04.png?v=2"
     },
     {
         "id":  "st_05",
         "predominantColor":  "#C62828",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "kansas city",
@@ -254,13 +254,13 @@
         "isNew":  true,
         "name":  "Arrowhead Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_05.png?v=2"
     },
     {
         "id":  "st_06",
         "predominantColor":  "#1565C0",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "los angeles",
@@ -271,13 +271,13 @@
         "isNew":  true,
         "name":  "SoFi Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_06.png?v=2"
     },
     {
         "id":  "st_07",
         "predominantColor":  "#00695C",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "miami",
@@ -288,13 +288,13 @@
         "isNew":  true,
         "name":  "Hard Rock Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_07.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_07.png?v=2"
     },
     {
         "id":  "st_08",
         "predominantColor":  "#283593",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "nova york",
@@ -305,13 +305,13 @@
         "isNew":  true,
         "name":  "MetLife Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_08.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_08.png?v=2"
     },
     {
         "id":  "st_09",
         "predominantColor":  "#004C54",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "philadelphia",
@@ -322,13 +322,13 @@
         "isNew":  true,
         "name":  "Lincoln Financial Field",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_09.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_09.png?v=2"
     },
     {
         "id":  "st_10",
         "predominantColor":  "#AA0000",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "san francisco",
@@ -339,13 +339,13 @@
         "isNew":  true,
         "name":  "Levi\u0027s Stadium",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_10.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_10.png?v=2"
     },
     {
         "id":  "st_11",
         "predominantColor":  "#69BE28",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "seattle",
@@ -356,13 +356,13 @@
         "isNew":  true,
         "name":  "Lumen Field",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_11.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_11.png?v=2"
     },
     {
         "id":  "st_12",
         "predominantColor":  "#112233",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "cidade do mexico",
@@ -371,15 +371,15 @@
                      "stadium"
                  ],
         "isNew":  true,
-        "name":  "EstÃ¡dio Azteca",
+        "name":  "Estádio Azteca",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_12.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_12.png?v=2"
     },
     {
         "id":  "st_13",
         "predominantColor":  "#E53935",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "guadalajara",
@@ -388,15 +388,15 @@
                      "stadium"
                  ],
         "isNew":  true,
-        "name":  "EstÃ¡dio Akron",
+        "name":  "Estádio Akron",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_13.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_13.png?v=2"
     },
     {
         "id":  "st_14",
         "predominantColor":  "#1E88E5",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "monterrey",
@@ -405,15 +405,15 @@
                      "stadium"
                  ],
         "isNew":  true,
-        "name":  "EstÃ¡dio BBVA",
+        "name":  "Estádio BBVA",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_14.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_14.png?v=2"
     },
     {
         "id":  "st_15",
         "predominantColor":  "#D32F2F",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "toronto",
@@ -424,13 +424,13 @@
         "isNew":  true,
         "name":  "BMO Field",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_15.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_15.png?v=2"
     },
     {
         "id":  "st_16",
         "predominantColor":  "#1976D2",
         "isPremium":  false,
-        "category":  "EstÃ¡dios",
+        "category":  "Estádios",
         "tags":  [
                      "estadio",
                      "vancouver",
@@ -441,13 +441,13 @@
         "isNew":  true,
         "name":  "BC Place",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_16.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/estadios/stadium_16.png?v=2"
     },
     {
         "id":  "br_01",
         "predominantColor":  "#009B3A",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "brasil",
                      "selecao",
@@ -458,13 +458,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_01.png?v=2"
     },
     {
         "id":  "br_02",
         "predominantColor":  "#FEDF00",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "brasil",
                      "selecao",
@@ -475,13 +475,13 @@
         "isNew":  true,
         "name":  "Retrato de Craque",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_02.png?v=2"
     },
     {
         "id":  "br_03",
         "predominantColor":  "#002776",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "brasil",
                      "selecao",
@@ -492,13 +492,13 @@
         "isNew":  true,
         "name":  "Torcida Brasileira",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_03.png?v=2"
     },
     {
         "id":  "br_04",
         "predominantColor":  "#116035",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "brasil",
                      "selecao",
@@ -509,13 +509,13 @@
         "isNew":  true,
         "name":  "Bola Verde e Amarela",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/brasil/br_04.png?v=2"
     },
     {
         "id":  "ar_01",
         "predominantColor":  "#74ACDF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "argentina",
                      "selecao",
@@ -526,13 +526,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_01.png?v=2"
     },
     {
         "id":  "ar_02",
         "predominantColor":  "#FFFFFF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "argentina",
                      "selecao",
@@ -543,13 +543,13 @@
         "isNew":  true,
         "name":  "Retrato de Craque",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_02.png?v=2"
     },
     {
         "id":  "ar_03",
         "predominantColor":  "#74ACDF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "argentina",
                      "selecao",
@@ -560,13 +560,13 @@
         "isNew":  true,
         "name":  "Torcida Argentina",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_03.png?v=2"
     },
     {
         "id":  "ar_04",
         "predominantColor":  "#2C3E50",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "argentina",
                      "selecao",
@@ -577,13 +577,13 @@
         "isNew":  true,
         "name":  "Bola Albiceleste",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/argentina/ar_04.png?v=2"
     },
     {
         "id":  "us_01",
         "predominantColor":  "#0A3161",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "eua",
                      "usa",
@@ -595,13 +595,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "eua",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_01.png?v=2"
     },
     {
         "id":  "us_02",
         "predominantColor":  "#FFFFFF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "eua",
                      "usa",
@@ -613,13 +613,13 @@
         "isNew":  true,
         "name":  "Retrato de Craque",
         "team":  "eua",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_02.png?v=2"
     },
     {
         "id":  "us_03",
         "predominantColor":  "#B31942",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "eua",
                      "usa",
@@ -631,13 +631,13 @@
         "isNew":  true,
         "name":  "Torcida Americana",
         "team":  "eua",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_03.png?v=2"
     },
     {
         "id":  "us_04",
         "predominantColor":  "#0A3161",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "eua",
                      "usa",
@@ -648,13 +648,13 @@
         "isNew":  true,
         "name":  "Bola Americana",
         "team":  "eua",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/eua/us_04.png?v=2"
     },
     {
         "id":  "mx_01",
         "predominantColor":  "#006847",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "mexico",
                      "selecao",
@@ -665,13 +665,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "mexico",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_01.png?v=2"
     },
     {
         "id":  "mx_02",
         "predominantColor":  "#FFFFFF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "mexico",
                      "selecao",
@@ -682,13 +682,13 @@
         "isNew":  true,
         "name":  "Retrato de Craque",
         "team":  "mexico",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_02.png?v=2"
     },
     {
         "id":  "mx_03",
         "predominantColor":  "#CE1126",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "mexico",
                      "selecao",
@@ -699,13 +699,13 @@
         "isNew":  true,
         "name":  "Torcida Mexicana",
         "team":  "mexico",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_03.png?v=2"
     },
     {
         "id":  "mx_04",
         "predominantColor":  "#006847",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "mexico",
                      "selecao",
@@ -715,13 +715,13 @@
         "isNew":  true,
         "name":  "Bola Tricolor",
         "team":  "mexico",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/mexico/mx_04.png?v=2"
     },
     {
         "id":  "pt_01",
         "predominantColor":  "#E42518",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "portugal",
                      "selecao",
@@ -732,13 +732,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "portugal",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_01.png?v=2"
     },
     {
         "id":  "pt_02",
         "predominantColor":  "#E42518",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "portugal",
                      "selecao",
@@ -749,13 +749,13 @@
         "isNew":  true,
         "name":  "Retrato de Craque",
         "team":  "portugal",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_02.png?v=2"
     },
     {
         "id":  "pt_03",
         "predominantColor":  "#046A38",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "portugal",
                      "selecao",
@@ -766,13 +766,13 @@
         "isNew":  true,
         "name":  "Torcida Portuguesa",
         "team":  "portugal",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_03.png?v=2"
     },
     {
         "id":  "pt_04",
         "predominantColor":  "#046A38",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "portugal",
                      "selecao",
@@ -782,7 +782,7 @@
         "isNew":  true,
         "name":  "Bola Verde e Vermelha",
         "team":  "portugal",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/portugal/pt_04.png?v=2"
     },
     {
         "id":  "bl_01",
@@ -799,7 +799,7 @@
         "isNew":  true,
         "name":  "Trionda Studio Lighting",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_01.png?v=2"
     },
     {
         "id":  "bl_02",
@@ -816,7 +816,7 @@
         "isNew":  true,
         "name":  "Trionda in the Net",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_02.png?v=2"
     },
     {
         "id":  "bl_03",
@@ -833,7 +833,7 @@
         "isNew":  true,
         "name":  "Trionda on Penalty Spot",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_03.png?v=2"
     },
     {
         "id":  "bl_04",
@@ -850,7 +850,7 @@
         "isNew":  true,
         "name":  "Trionda in the Rain",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_04.png?v=2"
     },
     {
         "id":  "pl_01",
@@ -867,7 +867,7 @@
         "isNew":  true,
         "name":  "Vinicius Junior Action",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_01.png?v=2"
     },
     {
         "id":  "pl_02",
@@ -884,7 +884,7 @@
         "isNew":  true,
         "name":  "Lionel Messi Action",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_02.png?v=2"
     },
     {
         "id":  "pl_03",
@@ -901,7 +901,7 @@
         "isNew":  true,
         "name":  "Kylian Mbappe Action",
         "team":  "franca",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_03.png?v=2"
     },
     {
         "id":  "pl_04",
@@ -918,7 +918,7 @@
         "isNew":  true,
         "name":  "Jude Bellingham Action",
         "team":  "inglaterra",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_04.png?v=2"
     },
     {
         "id":  "mo_01",
@@ -935,7 +935,7 @@
         "isNew":  true,
         "name":  "Pele 1970",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_01.png?v=2"
     },
     {
         "id":  "mo_02",
@@ -952,7 +952,7 @@
         "isNew":  true,
         "name":  "Maradona 1986",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_02.png?v=2"
     },
     {
         "id":  "mo_03",
@@ -969,7 +969,7 @@
         "isNew":  true,
         "name":  "Ronaldo 2002",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_03.png?v=2"
     },
     {
         "id":  "mo_04",
@@ -986,7 +986,7 @@
         "isNew":  true,
         "name":  "Messi 2022",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_04.png?v=2"
     },
     {
         "id":  "fz_01",
@@ -1003,7 +1003,7 @@
         "isNew":  true,
         "name":  "Massive Fan Zone",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_01.png?v=2"
     },
     {
         "id":  "fz_02",
@@ -1019,7 +1019,7 @@
         "isNew":  true,
         "name":  "Passionate Fans",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_02.png?v=2"
     },
     {
         "id":  "fz_03",
@@ -1036,7 +1036,7 @@
         "isNew":  true,
         "name":  "Sea of Scarves",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_03.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_03.png?v=2"
     },
     {
         "id":  "fz_04",
@@ -1053,7 +1053,7 @@
         "isNew":  true,
         "name":  "Goal Celebration",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_04.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_04.png?v=2"
     },
     {
         "id":  "pl_05",
@@ -1070,7 +1070,7 @@
         "isNew":  true,
         "name":  "Erling Haaland Action",
         "team":  "noruega",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_05.png?v=2"
     },
     {
         "id":  "pl_06",
@@ -1087,7 +1087,7 @@
         "isNew":  true,
         "name":  "Cristiano Ronaldo Action",
         "team":  "portugal",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_06.png?v=2"
     },
     {
         "id":  "pl_07",
@@ -1105,7 +1105,7 @@
         "isNew":  true,
         "name":  "Christian Pulisic Action",
         "team":  "eua",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_07.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_07.png?v=2"
     },
     {
         "id":  "pl_08",
@@ -1122,7 +1122,7 @@
         "isNew":  true,
         "name":  "Santiago Gimenez Action",
         "team":  "mexico",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_08.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_08.png?v=2"
     },
     {
         "id":  "mo_05",
@@ -1139,7 +1139,7 @@
         "isNew":  true,
         "name":  "Zidane 1998",
         "team":  "franca",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_05.png?v=2"
     },
     {
         "id":  "mo_06",
@@ -1156,7 +1156,7 @@
         "isNew":  true,
         "name":  "Gotze 2014",
         "team":  "alemanha",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_06.png?v=2"
     },
     {
         "id":  "mo_07",
@@ -1173,7 +1173,7 @@
         "isNew":  true,
         "name":  "Cafu 2002",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_07.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_07.png?v=2"
     },
     {
         "id":  "cp_11",
@@ -1190,7 +1190,7 @@
         "isNew":  true,
         "name":  "Neon Continent",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png?v=2"
     },
     {
         "id":  "cp_12",
@@ -1206,7 +1206,7 @@
         "isNew":  true,
         "name":  "Corner Flag",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png?v=2"
     },
     {
         "id":  "bl_05",
@@ -1223,7 +1223,7 @@
         "isNew":  true,
         "name":  "Trionda on Wet Grass",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_05.png?v=2"
     },
     {
         "id":  "bl_06",
@@ -1240,7 +1240,7 @@
         "isNew":  true,
         "name":  "Neon Shattered Ball",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_06.png?v=2"
     },
     {
         "id":  "fz_05",
@@ -1257,7 +1257,7 @@
         "isNew":  true,
         "name":  "Giant Flags",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_05.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_05.png?v=2"
     },
     {
         "id":  "fz_06",
@@ -1274,7 +1274,7 @@
         "isNew":  true,
         "name":  "Rain Celebration",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_06.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_06.png?v=2"
     },
     {
         "id":  "fz_07",
@@ -1291,7 +1291,7 @@
         "isNew":  true,
         "name":  "City Fan Zone",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_07.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_07.png?v=2"
     },
     {
         "id":  "fz_08",
@@ -1308,7 +1308,7 @@
         "isNew":  true,
         "name":  "Daylight Cheers",
         "team":  "",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_08.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_08.png?v=2"
     },
     {
         "id":  "mo_08",
@@ -1320,12 +1320,12 @@
                      "baggio",
                      "italia",
                      "1994",
-                     "dramÃ¡tico"
+                     "dramático"
                  ],
         "isNew":  true,
         "name":  "Baggio 1994",
         "team":  "italia",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_08.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_08.png?v=2"
     },
     {
         "id":  "mo_09",
@@ -1342,7 +1342,7 @@
         "isNew":  true,
         "name":  "Di Maria 2022",
         "team":  "argentina",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_09.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_09.png?v=2"
     },
     {
         "id":  "mo_10",
@@ -1359,7 +1359,7 @@
         "isNew":  true,
         "name":  "Mbappe 2022",
         "team":  "franca",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_10.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_10.png?v=2"
     },
     {
         "id":  "pl_09",
@@ -1376,7 +1376,7 @@
         "isNew":  true,
         "name":  "Harry Kane Action",
         "team":  "inglaterra",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_09.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_09.png?v=2"
     },
     {
         "id":  "pl_10",
@@ -1393,7 +1393,7 @@
         "isNew":  true,
         "name":  "Rodrygo Action",
         "team":  "brasil",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_10.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_10.png?v=2"
     },
     {
         "id":  "pl_11",
@@ -1410,7 +1410,7 @@
         "isNew":  true,
         "name":  "Phil Foden Action",
         "team":  "inglaterra",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_11.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_11.png?v=2"
     },
     {
         "id":  "pl_12",
@@ -1427,7 +1427,7 @@
         "isNew":  true,
         "name":  "Lamine Yamal Action",
         "team":  "espanha",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_12.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_12.png?v=2"
     },
     {
         "id":  "pl_13",
@@ -1444,7 +1444,7 @@
         "isNew":  true,
         "name":  "Jamal Musiala Action",
         "team":  "alemanha",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_13.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_13.png?v=2"
     },
     {
         "id":  "pl_14",
@@ -1461,7 +1461,7 @@
         "isNew":  true,
         "name":  "Darwin Nunez Action",
         "team":  "uruguai",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_14.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_14.png?v=2"
     },
     {
         "id":  "pl_15",
@@ -1478,13 +1478,13 @@
         "isNew":  true,
         "name":  "Luis Diaz Action",
         "team":  "colombia",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_15.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_15.png?v=2"
     },
     {
         "id":  "co_01",
         "predominantColor":  "#FCD116",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "colombia",
                      "selecao",
@@ -1495,13 +1495,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "colombia",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/colombia/co_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/colombia/co_01.png?v=2"
     },
     {
         "id":  "ec_01",
         "predominantColor":  "#FFD100",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "equador",
                      "selecao",
@@ -1512,13 +1512,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "equador",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/equador/ec_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/equador/ec_01.png?v=2"
     },
     {
         "id":  "co_02",
         "predominantColor":  "#FCD116",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "colombia",
                      "selecao",
@@ -1529,13 +1529,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "colombia",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/colombia/co_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/colombia/co_02.png?v=2"
     },
     {
         "id":  "ec_02",
         "predominantColor":  "#FFD100",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "equador",
                      "selecao",
@@ -1546,13 +1546,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "equador",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/equador/ec_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/equador/ec_02.png?v=2"
     },
     {
         "id":  "pa_01",
         "predominantColor":  "#D52B1E",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "paraguai",
                      "selecao",
@@ -1563,13 +1563,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "paraguai",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/paraguai/pa_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/paraguai/pa_01.png?v=2"
     },
     {
         "id":  "uy_01",
         "predominantColor":  "#7B9EBB",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "uruguai",
                      "selecao",
@@ -1580,13 +1580,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "uruguai",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/uruguai/uy_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/uruguai/uy_01.png?v=2"
     },
     {
         "id":  "uy_02",
         "predominantColor":  "#7B9EBB",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "uruguai",
                      "selecao",
@@ -1597,13 +1597,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "uruguai",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/uruguai/uy_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/uruguai/uy_02.png?v=2"
     },
     {
         "id":  "de_01",
         "predominantColor":  "#000000",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "alemanha",
                      "selecao",
@@ -1614,13 +1614,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "alemanha",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/alemanha/de_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/alemanha/de_01.png?v=2"
     },
     {
         "id":  "de_02",
         "predominantColor":  "#FFFFFF",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "alemanha",
                      "selecao",
@@ -1631,13 +1631,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "alemanha",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/alemanha/de_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/alemanha/de_02.png?v=2"
     },
     {
         "id":  "at_01",
         "predominantColor":  "#ED2939",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "austria",
                      "selecao",
@@ -1648,13 +1648,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "austria",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/austria/at_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/austria/at_01.png?v=2"
     },
     {
         "id":  "at_02",
         "predominantColor":  "#ED2939",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "austria",
                      "selecao",
@@ -1665,13 +1665,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "austria",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/austria/at_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/austria/at_02.png?v=2"
     },
     {
         "id":  "be_01",
         "predominantColor":  "#E30A17",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "belgica",
                      "selecao",
@@ -1682,13 +1682,13 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "belgica",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/belgica/be_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/belgica/be_01.png?v=2"
     },
     {
         "id":  "be_02",
         "predominantColor":  "#000000",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "belgica",
                      "selecao",
@@ -1699,13 +1699,13 @@
         "isNew":  true,
         "name":  "Conceptual Jersey",
         "team":  "belgica",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/belgica/be_02.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/belgica/be_02.png?v=2"
     },
     {
         "id":  "ba_01",
         "predominantColor":  "#002395",
         "isPremium":  false,
-        "category":  "SeleÃ§Ãµes",
+        "category":  "Seleções",
         "tags":  [
                      "bosnia",
                      "selecao",
@@ -1716,7 +1716,6 @@
         "isNew":  true,
         "name":  "Bandeira Neon Grunge",
         "team":  "bosnia",
-        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/bosnia/ba_01.png"
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes/bosnia/ba_01.png?v=2"
     }
 ]
-
