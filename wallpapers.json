@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cp_01",
+    "name": "Copa 1",
+    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa_1.jpg",
+    "category": "Todas",
+    "predominantColor": "#00A859",
+    "isPremium": false,
+    "isNew": true,
+    "tags": ["copa", "novo"]
+  },
+  {
+    "id": "cp_02",
+    "name": "Copa 2",
+    "assetPath": "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa_2.jpg",
+    "category": "Todas",
+    "predominantColor": "#43A1D5",
+    "isPremium": false,
+    "isNew": true,
+    "tags": ["copa", "novo"]
+  }
+]
