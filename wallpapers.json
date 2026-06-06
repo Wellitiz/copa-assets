@@ -1174,5 +1174,548 @@
         "name":  "Cafu 2002",
         "team":  "brasil",
         "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_07.png"
+    },
+    {
+        "id":  "cp_11",
+        "predominantColor":  "#6A1B9A",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "continente",
+                     "america",
+                     "neon",
+                     "2026"
+                 ],
+        "isNew":  true,
+        "name":  "Neon Continent",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_09.png"
+    },
+    {
+        "id":  "cp_12",
+        "predominantColor":  "#0277BD",
+        "isPremium":  false,
+        "category":  "Copa",
+        "tags":  [
+                     "copa",
+                     "escanteio",
+                     "bandeira",
+                     "gramado"
+                 ],
+        "isNew":  true,
+        "name":  "Corner Flag",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/copa/copa_10.png"
+    },
+    {
+        "id":  "bl_05",
+        "predominantColor":  "#2E7D32",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "chuva",
+                     "grama",
+                     "2026"
+                 ],
+        "isNew":  true,
+        "name":  "Trionda on Wet Grass",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_05.png"
+    },
+    {
+        "id":  "bl_06",
+        "predominantColor":  "#1A237E",
+        "isPremium":  false,
+        "category":  "Bola Oficial",
+        "tags":  [
+                     "bola",
+                     "trionda",
+                     "neon",
+                     "abstrato",
+                     "2026"
+                 ],
+        "isNew":  true,
+        "name":  "Neon Shattered Ball",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/bola/bola_06.png"
+    },
+    {
+        "id":  "fz_05",
+        "predominantColor":  "#E65100",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "bandeiras",
+                     "por do sol",
+                     "estadio"
+                 ],
+        "isNew":  true,
+        "name":  "Giant Flags",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_05.png"
+    },
+    {
+        "id":  "fz_06",
+        "predominantColor":  "#0277BD",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "chuva",
+                     "epico",
+                     "emocao"
+                 ],
+        "isNew":  true,
+        "name":  "Rain Celebration",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_06.png"
+    },
+    {
+        "id":  "fz_07",
+        "predominantColor":  "#6A1B9A",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "cidade",
+                     "telao",
+                     "festa",
+                     "noturno"
+                 ],
+        "isNew":  true,
+        "name":  "City Fan Zone",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_07.png"
+    },
+    {
+        "id":  "fz_08",
+        "predominantColor":  "#FBC02D",
+        "isPremium":  false,
+        "category":  "Fan Zones",
+        "tags":  [
+                     "fanzone",
+                     "torcida",
+                     "sol",
+                     "rostos pintados",
+                     "alegria"
+                 ],
+        "isNew":  true,
+        "name":  "Daylight Cheers",
+        "team":  "",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/fan_zones/fanzone_08.png"
+    },
+    {
+        "id":  "mo_08",
+        "predominantColor":  "#0064AA",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "baggio",
+                     "italia",
+                     "1994",
+                     "dramático"
+                 ],
+        "isNew":  true,
+        "name":  "Baggio 1994",
+        "team":  "italia",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_08.png"
+    },
+    {
+        "id":  "mo_09",
+        "predominantColor":  "#74ACDF",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "di maria",
+                     "argentina",
+                     "2022",
+                     "coracao"
+                 ],
+        "isNew":  true,
+        "name":  "Di Maria 2022",
+        "team":  "argentina",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_09.png"
+    },
+    {
+        "id":  "mo_10",
+        "predominantColor":  "#002395",
+        "isPremium":  false,
+        "category":  "Momentos",
+        "tags":  [
+                     "momento",
+                     "mbappe",
+                     "franca",
+                     "2022",
+                     "final"
+                 ],
+        "isNew":  true,
+        "name":  "Mbappe 2022",
+        "team":  "franca",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/momentos/moment_10.png"
+    },
+    {
+        "id":  "pl_09",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "kane",
+                     "inglaterra",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Harry Kane Action",
+        "team":  "inglaterra",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_09.png"
+    },
+    {
+        "id":  "pl_10",
+        "predominantColor":  "#FEDF00",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "rodrygo",
+                     "brasil",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Rodrygo Action",
+        "team":  "brasil",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_10.png"
+    },
+    {
+        "id":  "pl_11",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "foden",
+                     "inglaterra",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Phil Foden Action",
+        "team":  "inglaterra",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_11.png"
+    },
+    {
+        "id":  "pl_12",
+        "predominantColor":  "#AA151B",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "yamal",
+                     "espanha",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Lamine Yamal Action",
+        "team":  "espanha",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_12.png"
+    },
+    {
+        "id":  "pl_13",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "musiala",
+                     "alemanha",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Jamal Musiala Action",
+        "team":  "alemanha",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_13.png"
+    },
+    {
+        "id":  "pl_14",
+        "predominantColor":  "#7B9EBB",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "nunez",
+                     "uruguai",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Darwin Nunez Action",
+        "team":  "uruguai",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_14.png"
+    },
+    {
+        "id":  "pl_15",
+        "predominantColor":  "#FCD116",
+        "isPremium":  false,
+        "category":  "Jogadores",
+        "tags":  [
+                     "jogador",
+                     "diaz",
+                     "colombia",
+                     "realista",
+                     "retrato"
+                 ],
+        "isNew":  true,
+        "name":  "Luis Diaz Action",
+        "team":  "colombia",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/jogadores/player_15.png"
+    },
+    {
+        "id":  "co_01",
+        "predominantColor":  "#FCD116",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "colombia",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "colombia",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\colombia/co_01.png"
+    },
+    {
+        "id":  "ec_01",
+        "predominantColor":  "#FFD100",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "equador",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "equador",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\equador/ec_01.png"
+    },
+    {
+        "id":  "co_02",
+        "predominantColor":  "#FCD116",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "colombia",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "colombia",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\colombia/co_02.png"
+    },
+    {
+        "id":  "ec_02",
+        "predominantColor":  "#FFD100",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "equador",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "equador",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\equador/ec_02.png"
+    },
+    {
+        "id":  "pa_01",
+        "predominantColor":  "#D52B1E",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "paraguai",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "paraguai",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\paraguai/pa_01.png"
+    },
+    {
+        "id":  "uy_01",
+        "predominantColor":  "#7B9EBB",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "uruguai",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "uruguai",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\uruguai/uy_01.png"
+    },
+    {
+        "id":  "uy_02",
+        "predominantColor":  "#7B9EBB",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "uruguai",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "uruguai",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\uruguai/uy_02.png"
+    },
+    {
+        "id":  "de_01",
+        "predominantColor":  "#000000",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "alemanha",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "alemanha",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\alemanha/de_01.png"
+    },
+    {
+        "id":  "de_02",
+        "predominantColor":  "#FFFFFF",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "alemanha",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "alemanha",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\alemanha/de_02.png"
+    },
+    {
+        "id":  "at_01",
+        "predominantColor":  "#ED2939",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "austria",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "austria",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\austria/at_01.png"
+    },
+    {
+        "id":  "at_02",
+        "predominantColor":  "#ED2939",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "austria",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "austria",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\austria/at_02.png"
+    },
+    {
+        "id":  "be_01",
+        "predominantColor":  "#E30A17",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "belgica",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "belgica",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\belgica/be_01.png"
+    },
+    {
+        "id":  "be_02",
+        "predominantColor":  "#000000",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "belgica",
+                     "selecao",
+                     "camisa",
+                     "neon",
+                     "arte"
+                 ],
+        "isNew":  true,
+        "name":  "Conceptual Jersey",
+        "team":  "belgica",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\belgica/be_02.png"
+    },
+    {
+        "id":  "ba_01",
+        "predominantColor":  "#002395",
+        "isPremium":  false,
+        "category":  "Seleções",
+        "tags":  [
+                     "bosnia",
+                     "selecao",
+                     "flag",
+                     "neon",
+                     "grunge"
+                 ],
+        "isNew":  true,
+        "name":  "Bandeira Neon Grunge",
+        "team":  "bosnia",
+        "assetPath":  "https://raw.githubusercontent.com/Wellitiz/copa-assets/main/images/wallpapers/selecoes\\bosnia/ba_01.png"
     }
 ]
